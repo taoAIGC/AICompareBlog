@@ -203,4 +203,9 @@ AIメール作成：使いこなせれば效率神器、下手すれば事故現
 
 ---
 
+**Chrome 拡張機能をダウンロード**：
+> [AI Compare - Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
+
+---
+
 **関連検索**: AIメール作成, メールテンプレート, 業務効率化, ChatGPTメール, Claudeメール, DeepSeekメール, ビジネスメールテンプレート, 入金督促メール, 業務報告メール

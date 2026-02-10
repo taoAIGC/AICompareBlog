@@ -203,4 +203,9 @@
 
 ---
 
+**تحميل إضافة Chrome**：
+> [AI Compare - Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
+
+---
+
 **البحث ذي الصلة**：كتابة البريد الإلكتروني بالذكاء الاصطناعي، قوالب البريد الإلكتروني، كفاءة العمل، بريد ChatGPT، بريد Claude، بريد DeepSeek، قالب بريد تجاري، بريد تذكير بالدفع، تقرير عمل

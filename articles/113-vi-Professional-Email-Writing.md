@@ -82,4 +82,9 @@ Thay vì tốn 1-2 giờ đau đầu về cách diễn đạt, hãy để AI t�
 
 ---
 
+**Tải Tiện Ích Chrome**：
+> [AI Compare - Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
+
+---
+
 **Tìm Kiếm Liên Quan**: Viết email bằng AI, mẫu email, hiệu quả công việc, email ChatGPT, email Claude, email DeepSeek, mẫu email kinh doanh, email nhắc nhở thanh toán, báo cáo công việc
