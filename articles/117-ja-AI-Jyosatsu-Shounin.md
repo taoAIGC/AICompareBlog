@@ -184,7 +184,6 @@ AIはあなたを失业させません。しかし、AIを使う人は使わな�
 
 ** расширениедownload**: [Chromeウェブストア](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**微信**: aipmgpt（「文案」を追加してコピーラ이터コミュニティに参加）
 
 ---
 

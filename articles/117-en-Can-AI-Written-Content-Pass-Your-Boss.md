@@ -184,7 +184,6 @@ AI won't make you lose your job. But someone who uses AI will make someone who d
 
 **Extension Download**: [Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**WeChat**: aipmgpt (Add "Copywriting" to join our writer community)
 
 ---
 

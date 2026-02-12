@@ -184,7 +184,6 @@
 
 **Скачать расширение**: [Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**WeChat**: aipmgpt (Добавь "Copywriting", чтобы присоединиться к нашему сообществу копирайтеров)
 
 ---
 

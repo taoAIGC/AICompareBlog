@@ -184,7 +184,6 @@ IA não vai te fazer perder seu trabalho. Mas alguém que usa IA vai fazer algu�
 
 **Download da Extensão**: [Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**WeChat**: aipmgpt (Adicione "Redação" para entrar na nossa comunidade de redatores)
 
 ---
 

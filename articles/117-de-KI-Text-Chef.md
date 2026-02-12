@@ -184,7 +184,6 @@ KI wird dich nicht arbeitslos machen. Aber jemand, der KI benutzt, wird jemanden
 
 **Erweiterung Herunterladen**: [Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**WeChat**: aipmgpt (Füge "Texter" hinzu, um unserer Texter-Community beizutreten)
 
 ---
 

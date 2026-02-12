@@ -184,7 +184,6 @@ AI가 당신을 실업시키지는 않아요. 하지만 AI를 쓰는 사람이 �
 
 **扩展프로그램 다운로드**: [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**위챗**: aipmgpt ("카피"를 추가해서 카피라이터 커뮤니티에 참여하세요)
 
 ---
 

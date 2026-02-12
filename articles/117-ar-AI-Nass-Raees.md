@@ -184,7 +184,6 @@
 
 **تحميل الإضافة**: [Chrome متجر الويب](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**وي شات**: aipmgpt (أضف "كتابة" للانضمام إلى مجتمع كتّاب المحتوى)
 
 ---
 

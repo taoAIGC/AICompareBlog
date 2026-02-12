@@ -184,7 +184,6 @@ AI sẽ không khiến bạn mất việc. Nhưng người dùng AI sẽ khiến
 
 **Tải Tiện Ích**: [Chrome Web Store](https://chrome.google.com/webstore/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl)
 
-**WeChat**: aipmgpt (Thêm "Copywriting" để tham gia cộng đồng copywriter của chúng tôi)
 
 ---
 
